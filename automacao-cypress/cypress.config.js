@@ -4,7 +4,6 @@ module.exports = defineConfig({
   e2e: {
     baseUrl: "https://analista-teste.seatecnologia.com.br/",
     setupNodeEvents(on, config) {
-      // implement node event listeners here
     },
   },
 });
