@@ -1,12 +1,16 @@
-Desafio prático Analista de Testes (QA)
+# Desafio Prático para Vaga de Analista de Testes (QA)
 
-Este repositório contém toda a execução do desafio para a vaga de Analista de Teste, apresentando:
+## Este repositório documenta a execução completa do desafio prático para a vaga de Analista de Testes (QA), abrangendo o ciclo de vida de testes.
 
-1 - Compreensão dos requisitos
-2 - Planejamento dos testes
-3 - Execução dos testes
-4 - Reporte de Bugs
-5 - Análise e Melhorias
-6 - Apresentação dos resultados
+Objetivos e Etapas do Desafio
+O projeto foi estruturado para demonstrar proficiência em várias fases do processo de Garantia de Qualidade. As seguintes etapas foram abordadas:
 
-Foi criado um checklist por planilha e também pastas com intuito de se ter um direcionamento durante os teste, por isso foram criados as pastas: apresentacao, automacao-cypress, eventos-de-testes, evidencias-de-testes. Com isso, os testes iniciais utilizados foi o testes manuais. 
+Compreensão dos Requisitos: Análise detalhada dos requisitos para garantir a cobertura adequada dos testes.
+
+Planejamento dos Testes: Definição da estratégia e criação de checklists 
+
+Execução dos Testes: Aplicação das técnicas de teste (inicialmente testes manuais).
+
+Reporte de Bugs: Identificação, documentação e acompanhamento de defeitos encontrados abrangentes que especifiquei com as nomenclaturas -> Artefato com Erro e Correções a serem Realizadas, além da captura da evidência que se encontra na pasta evidencias-de-testes
+
+Apresentação dos Resultados: Consolidação e comunicação das descobertas.

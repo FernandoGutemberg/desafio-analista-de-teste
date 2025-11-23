@@ -46,15 +46,18 @@ Correções a serem Realizadas:
 Colocar no mesmo padrão do protótipo
 
 Artefato com Erro:
-7.1 O tamanho da Div class="descriptionSpan" não está no padrão do protótipo estando com uma largura maior
+7.1 O tamanho da Div class="descriptionSpan" não está no padrão do protótipo estando com uma altura maior
 
 Correções a serem Realizadas:
-Colocar no padrão do protótipo com uma largura menor
+Colocar no padrão do protótipo com uma altura menor
+
+## Verificação de similaridade
 
 Artefato com Erro:
-
+8.1 Os campos não possuem placeholder como no protótipo
 
 Correções a serem Realizadas:
+Inserir placeholder nos campos: Nome, CPF, RG e em Informe o número do CA:.
 
 Artefato com Erro:
 
