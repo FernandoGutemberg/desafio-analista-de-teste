@@ -45,6 +45,24 @@ Artefato com Erro:
 Correções a serem Realizadas:
 Colocar no mesmo padrão do protótipo
 
+Artefato com Erro:
+7.1 O tamanho da Div class="descriptionSpan" não está no padrão do protótipo estando com uma largura maior
+
+Correções a serem Realizadas:
+Colocar no padrão do protótipo com uma largura menor
+
+Artefato com Erro:
+
+
+Correções a serem Realizadas:
+
+Artefato com Erro:
+
+
+Correções a serem Realizadas:
+
+
+
 
 
 
