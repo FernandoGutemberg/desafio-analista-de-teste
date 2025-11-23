@@ -1,9 +1,10 @@
-describe("Teste da página principal", () => {
-  beforeEach(() => {
-    cy.visit("https://analista-teste.seatecnologia.com.br/")
-  })
+describe("Validação CPF", () => {
+  it("deve exibir erro ao inserir CPF inválido", () => {
+    cy.visit("/");
 
-  it("Verifica se a página carregou corretamente", () => {
-    cy.contains("Login").should("be.visible")
-  })
-})
+    cy.get('input[name="cpf"]').type("12345678900");
+    cy.get('button[type="submit"]').click();
+
+    cy.contains("CPF inválido").should("be.visible");
+  });
+});
