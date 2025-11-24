@@ -11,6 +11,6 @@ Planejamento dos Testes: Definição da estratégia e criação de checklists
 
 Execução dos Testes: Aplicação das técnicas de teste (inicialmente testes manuais).
 
-Reporte de Bugs: Identificação, documentação e acompanhamento de defeitos encontrados abrangentes que especifiquei com as nomenclaturas -> Artefato com Erro e Correções a serem Realizadas, além da captura da evidência que se encontra na pasta evidencias-de-testes
+Reporte de Bugs: Identificação, documentação e captura da evidência que se encontra na pasta evidencias-de-testes
 
 Apresentação dos Resultados: Consolidação e comunicação das descobertas.

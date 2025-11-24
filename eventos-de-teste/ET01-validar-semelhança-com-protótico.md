@@ -1,78 +1,60 @@
 # Itens de verificação com protótipo do Figma:
 
-Esta lista detalha os desvios encontrados entre o código atual e o protótipo do Figma, juntamente com as correções necessárias.
+## Esta lista detalha os desvios encontrados entre o código atual e o protótipo do Figma, juntamente com as correções necessárias.
 
-## Verificação de botões: 
+# Verificação de botões
+Discrepância com o protótipo
+1.1. Botões da classe class="c-eFRCyV" não atendem aos requisitos do projeto principal.
 
-Artefato com Erro
-1.1 Botões da class: class="c-eFRCyV" não atendem aos requisitos do projeto principal
+Correções a serem Realizadas
+Os botões devem ter a mesma funcionalidade de navegação existente no protótipo.
 
-Correções a serem Realizadas:
-Botões terem a mesma funcionalidade de navegação que o protótipo
+# Verificação de fontes e cores
+Discrepância com o protótipo
+2.1. Os botões de “Itens” estão com tamanhos diferentes e em caixa alta (“ITEM 1”), além de não possuírem sequência numérica correta.
 
-## Verificação de fontes e cores
+Correções a serem Realizadas
+Padronizar o tamanho da fonte e ajustar a sequência numérica conforme o protótipo.
 
-Artefato com Erro: 
-2.1. Os botões de "Itens" estão com tamanhos diferentes em caixa alta "ITEM 1", também  não possuem sequência numérica
+Discrepância com o protótipo
+3.1. A visualização de “Concluído” (class="isConcluded") apresenta cor e tamanho de letra diferentes do protótipo.
 
-Correções a serem Realizadas:
-Padronizar o tamanho da fonte e a sequência numérica
+Correções a serem Realizadas
+Padronizar o tamanho e a cor do texto conforme o protótipo.
 
-Artefato com Erro:
-3.1. A verificação de Concluído class="isConcluded" está com cor e tamanho da letra diferenta do protótipo
+Discrepância com o protótipo
+4.1. A cor azul predominante do projeto não corresponde ao definido pelo protótipo (rgb(79, 161, 193)).
 
-Correções a serem Realizadas:
-Padronizar o tamanho e cor
+Correções a serem Realizadas
+Ajustar a cor azul para o valor especificado no protótipo.
 
-Artefato com Erro:
-4.1. A cor azul predominante do projeto não atende ao estabelecido do protótipo rgb(79, 161, 193)
+Discrepância com o protótipo
+5.1. A imagem com class="descriptionImage" não está dentro da div class="c-kHuwHh", ficando fora do quadrante correto.
 
-Correções a serem Realizadas:
-Padronizar a cor conforme o protótipo
+Correções a serem Realizadas
+Inserir a imagem dentro da div class="c-kHuwHh" conforme o protótipo.
 
-Artefato com Erro:
-5.1 A imagem class="descriptionImage" não está dentro da div class="c-kHuwHh", está fora do quadrante.
+# Verificação de tamanho
+Discrepância com o protótipo
+6.1. O tamanho da div class="c-follOS" está fora do padrão definido no protótipo.
 
-Correções a serem Realizadas:
-Colocar imagem dentro da div class="c-kHuwHh" conforme o protótipo
+Correções a serem Realizadas
+Ajustar para o mesmo padrão de dimensões do protótipo.
 
+Discrepância com o protótipo
+7.1. O tamanho da div class="descriptionSpan" não corresponde ao protótipo, apresentando altura maior do que a prevista.
 
-## Verificação de tamanho
+Correções a serem Realizadas
+Ajustar para a altura correta conforme o protótipo.
 
-Artefato com Erro:
-6.1 Tamanho da Div class="c-follOS" estão fora do padrão do protótipo
+# Verificação de similaridade
+Discrepância com o protótipo
+8.1. Os campos não possuem placeholder como no protótipo.
 
-Correções a serem Realizadas:
-Colocar no mesmo padrão do protótipo
-
-Artefato com Erro:
-7.1 O tamanho da Div class="descriptionSpan" não está no padrão do protótipo estando com uma altura maior
-
-Correções a serem Realizadas:
-Colocar no padrão do protótipo com uma altura menor
-
-## Verificação de similaridade
-
-Artefato com Erro:
-8.1 Os campos não possuem placeholder como no protótipo
-
-Correções a serem Realizadas:
-Inserir placeholder nos campos: Nome, CPF, RG e em Informe o número do CA:.
-
-Artefato com Erro:
-
-
-Correções a serem Realizadas:
-
-
-
-
-
-
-
-
-
-
-
-
+Correções a serem Realizadas
+Inserir placeholders nos campos:
+Nome
+CPF
+RG
+Informe o número do CA:
 
