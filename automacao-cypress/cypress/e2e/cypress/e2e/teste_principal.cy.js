@@ -8,3 +8,5 @@ describe("Validação CPF", () => {
     cy.contains("CPF inválido").should("be.visible");
   });
 });
+
+//Validação CPF ocorreu erro! deve exibir erro  ao inserir CPF inválido! Evidencia de execução em evidencias-de-testes -> ET6_AutomacaoCypress -> ET6_AutomacaoCypress_1.1
