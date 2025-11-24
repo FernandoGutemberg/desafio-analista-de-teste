@@ -1,7 +1,10 @@
 # Itens de verificação
 
 1.0 Validando se é possível inserir EPIs ?
-Passou no teste? SIM [X] NÃO []
+Passou no teste? SIM [] NÃO [X]
+
+Observação: não foi possível adicionar um EPI em "Adicionar EPI", quanto no protótipo é possível inserir EPIs.
 
 Sugestão de melhoria: 
-- Inserir um placeholder com "Informe o número do CA:"
+- Inserir funcionalidade de adicionar EPIs conforme o protótipo
+- Inserir contorno no button conforme o protótipo

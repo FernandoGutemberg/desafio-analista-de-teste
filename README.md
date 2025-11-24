@@ -5,12 +5,12 @@
 Objetivos e Etapas do Desafio
 O projeto foi estruturado para demonstrar proficiência em várias fases do processo de Garantia de Qualidade. As seguintes etapas foram abordadas:
 
-Compreensão dos Requisitos: Análise detalhada dos requisitos para garantir a cobertura adequada dos testes.
+1 - Compreensão dos Requisitos: Análise detalhada dos requisitos para garantir a cobertura adequada dos testes.
 
-Planejamento dos Testes: Definição da estratégia e criação de checklists 
+2 - Planejamento dos Testes: Definição da estratégia e criação de checklists 
 
-Execução dos Testes: Aplicação das técnicas de teste (inicialmente testes manuais).
+3 - Execução dos Testes: Aplicação das técnicas de teste (inicialmente testes manuais).
 
-Reporte de Bugs: Identificação, documentação e captura da evidência que se encontra na pasta evidencias-de-testes
+4 - Reporte de Bugs: Identificação, documentação e captura da evidência que se encontra na pasta evidencias-de-testes
 
-Apresentação dos Resultados: Consolidação e comunicação das descobertas.
+5 - Apresentação dos Resultados: Consolidação e comunicação das descobertas.
