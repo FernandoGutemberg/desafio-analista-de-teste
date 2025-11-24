@@ -1,13 +1,13 @@
 Apresentação dos Resultados:
 
-1 - Resumo
+1 - Resumo do processo de testes
+ 
 
-
-2 - Principais descobertas
+2 - Principais descobertas e bugs
 
 
 3 - Testes automatizados desenvolvidos
 
 
-4 - Sugestões de melhorias
+4 - Recomendações e Sugestões de melhorias
 
