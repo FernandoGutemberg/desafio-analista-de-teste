@@ -58,3 +58,10 @@ CPF
 RG
 Informe o número do CA:
 
+Discrepância com o protótipo
+9.1 A Div class="c-jyZWAy" que deveria ter a função de "Alterar" e "Excluir" não funciona conforme o protótipo! Impossibilitando de verificar os dados salvos. 
+
+Correções a serem Realizadas
+Inserir funcionalidade de button conforme o protótipo posssibilitando Alterar e Excluir!
+
+
