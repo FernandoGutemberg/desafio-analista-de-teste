@@ -1,6 +1,6 @@
 # Itens de verificação
 
-1.0 Validando se é possível inserir EPIs ?
+1.0 Validade se é possível inserir EPIs:
 Passou no teste? SIM [] NÃO [X]
 
 Observação: não foi possível adicionar um EPI em "Adicionar EPI", quanto no protótipo é possível inserir EPIs.

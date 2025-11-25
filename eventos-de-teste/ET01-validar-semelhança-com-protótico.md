@@ -64,9 +64,13 @@ Discrepância com o protótipo
 Correções a serem Realizadas
 Inserir funcionalidade de button conforme o protótipo posssibilitando Alterar e Excluir!
 
-10.1 Validando se é possível campos verificar usuário ativos em "Ver apenas ativos" ?
+10.1 Validado se é possível utilizar campos verificar usuário ativos em "Ver apenas ativos" ?
 Passou no teste? SIM [X] NÃO []
 
+11.1 Validado se é possível utilizar botão "A etapa está concluída? Sim/Não" em "Ver apenas ativos" ?
+Passou no teste? SIM [X] NÃO []
+
+Observação: O projeto não atende ao protótipo no que tante as Divs class="c-bVTnlJ isConcluded" e as demais, pois o protótipo ao clicar em "Sim" a Div destacada e como "Concluída".
 
 
 

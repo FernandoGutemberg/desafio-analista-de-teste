@@ -1,6 +1,6 @@
 # Itens de verificação
 
-1.0 Validando se o recebe CPF com 11 dígitos
+1.0 Validado se o recebe CPF com 11 dígitos
 Passou no teste? SIM [X] NÃO []
 
 Sugestão de melhoria: 
