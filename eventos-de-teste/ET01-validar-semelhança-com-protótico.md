@@ -64,4 +64,9 @@ Discrepância com o protótipo
 Correções a serem Realizadas
 Inserir funcionalidade de button conforme o protótipo posssibilitando Alterar e Excluir!
 
+10.1 Validando se é possível campos verificar usuário ativos em "Ver apenas ativos" ?
+Passou no teste? SIM [X] NÃO []
+
+
+
 
